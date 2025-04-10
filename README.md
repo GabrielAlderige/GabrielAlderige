@@ -42,11 +42,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlderige&layout=compact&theme=radical"/>
 </p>
 
----
-
-<h3 align="center">🐍 Contribuições</h3>
-
-<img src="https://raw.githubusercontent.com/GabrielAlderige/gitrepo/output/snake.svg" alt="Snake animation" />
 
 ---
 
