@@ -44,12 +44,9 @@
 
 ---
 
-<h3 align="center">🐍 Contribuições animadas</h3>
+<h3 align="center">🐍 Contribuições</h3>
 
-<p align="center">
-  <img src="https://github.com/GabrielAlderige/GabrielAlderige/blob/output/github-contribution-grid-snake.svg" alt="Snake gif animado representando contribuições" />
-</p>
-<p align="center"><i>Contribuições em forma de cobra 🐍</i></p>
+![snake gif](https://github.com/GabrielAlderige/GabrielAlderige/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
