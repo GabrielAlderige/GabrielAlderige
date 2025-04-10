@@ -43,31 +43,41 @@
 ### 🐍 Contribuições animadas
 
 <p align="center">
-  <img src="https://github.com/GabrielAlderige/GabrielAlderige/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/GabrielAlderige/GabrielAlderige/blob/output/github-contribution-grid-snake.svg" alt="Snake gif animado representando contribuições" />
 </p>
+<p align="center"><i>Contribuições em forma de cobra 🐍</i></p>
 
 ---
 
 ### 🎧 O que estou ouvindo no Spotify
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31kaqyikmzu5yykws2uhp3gyyb3q&cover_image=true&theme=novatorem&bar_color=9146FF&bar_color_cover=false)](https://open.spotify.com/user/31kaqyikmzu5yykws2uhp3gyyb3q)
+<p align="center">
+  <a href="https://open.spotify.com/user/31kaqyikmzu5yykws2uhp3gyyb3q">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kaqyikmzu5yykws2uhp3gyyb3q&cover_image=true&theme=novatorem&bar_color=9146FF&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</p>
+<p align="center"><i>Música também é código pra alma 🎶</i></p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/IeRdg7W5zLtR6/giphy.gif" width="300px" alt="Gif de anime ouvindo música" />
+</p>
+<p align="center"><i>Relaxando com um som bom</i></p>
 
 ---
 
-### 🔥 
+### 🔥 Motivação diária
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXprZnhscmNnMjhjaDExdW0wcWg0MWN2NGtobHN3NjhtZWMybjY3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aAbax5anloMNk6TSP9/giphy.gif" width="300px" alt="Goku instinto superior Gif" />
-  "Os limites só existem se eu os deixar existir"
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXprZnhscmNnMjhjaDExdW0wcWg0MWN2NGtobHN3NjhtZWMybjY3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aAbax5anloMNk6TSP9/giphy.gif" width="300px" alt="Goku Instinto Superior Gif" />
 </p>
+<p align="center"><i>"Os limites só existem se eu os deixar existir."</i></p>
 
 ---
 
 ### 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielalderige/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabcarvalhomelo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielalderige/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabcarvalhomelo/)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galbyoficial@gmail.com)
 
 ---
