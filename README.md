@@ -62,10 +62,10 @@
 </p>
 <p align="center"><i>Música também é código pra alma 🎶</i></p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/IeRdg7W5zLtR6/giphy.gif" width="300px" alt="Gif de anime ouvindo música" />
-</p>
 <p align="center"><i>Relaxando com um som bom</i></p>
+
+
+<p align="center"><i>Clique no Jake</i></p>
 
 ---
 
