@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/31kaqyikmzu5yykws2uhp3gyyb3q">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kaqyikmzu5yykws2uhp3gyyb3q&cover_image=true&theme=novatorem&bar_color=9146FF&bar_color_cover=false" alt="Spotify Now Playing" />
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpqZ3o3N3dveHdqMnU2bzZiNjh0ZHU2MmZ5ZWh2ejRrYjZ2dnF3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cgW5iwX0e37qg/giphy.gif" alt="Jake ouvindo musica hora de aventura" />
   </a>
 </p>
 <p align="center"><i>Música também é código pra alma 🎶</i></p>
