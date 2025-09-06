@@ -88,6 +88,7 @@
 
 <!-- Linha inferior -->
 <p align="center">
-  https://api.openweathermap.org/data/2.5/weather?q=${cidade}&appid=${key}&lang=pt_br&units=metric`
+  https://api.openweathermap.org/data/2.5/weather?q=${cidade}&appid=${key}&lang=pt_br&units=metric
+  https://openweathermap.org/img/wn/04n.png
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/>
 </p>
