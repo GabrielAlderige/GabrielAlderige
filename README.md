@@ -5,7 +5,7 @@
 
 <h2>...</h2>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22i33pjojmzgcvc2afy7kmwzq&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kaqyikmzu5yykws2uhp3gyyb3q)
 
 
 
