@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF,&center=true&vCenter=true&width=500&lines=Yo+soy+Gabriel+Majeau!;Computer+Science;I+am+Iron+Man!;Technology+Lover;Nerd+Spotted!;Love+frontend;HTML+and+CSS;Javascript;Wake+up,+John;Hyaaa!;Frostmourne+Hungers;" alt="Typing SVG" />
+</p>
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px>
 </h2>
 
