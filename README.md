@@ -8,7 +8,7 @@
   ### About Me
 
   - Computer Science student at **PUC Minas**
-  - Focused on **Computer Vision**
+  - Focused on **Melhorar a cada dia**
 
   ---
 
