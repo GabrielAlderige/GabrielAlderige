@@ -3,12 +3,6 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=I+am+Gabriel+Alderige!;Computer+Science;" alt="Typing SVG" />
 
-  ## My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height='32px' />
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlderige&layout=compact&theme=github_dark&hide_border=true" />
-  </a>
-
   ---
 
   ### About Me
